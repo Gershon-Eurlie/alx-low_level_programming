@@ -1,8 +1,6 @@
 #include "holberton.h"
 
 /**
- * _strncpy - a function that copys the strings.
- * @dest: an input string
  * @src: an input string
  * @n: an input integer
  * Return: A pointer to the resulting string
